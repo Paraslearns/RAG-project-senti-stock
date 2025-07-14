@@ -29,18 +29,3 @@
 
 ---
 
-## 🖼️ Demo Screenshot
-
-![screenshot](screenshots/stocksense_demo.png)
-
----
-
-## 📦 Installation
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/stocksense.git
-cd stocksense
-
-# Install required packages
-pip install -r requirements.txt
